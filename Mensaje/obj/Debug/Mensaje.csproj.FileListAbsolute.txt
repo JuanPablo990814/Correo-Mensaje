@@ -1,0 +1,9 @@
+D:\Documentos\Visual Studio\Mensaje\Mensaje\bin\Debug\Mensaje.exe.config
+D:\Documentos\Visual Studio\Mensaje\Mensaje\bin\Debug\Mensaje.exe
+D:\Documentos\Visual Studio\Mensaje\Mensaje\bin\Debug\Mensaje.pdb
+D:\Documentos\Visual Studio\Mensaje\Mensaje\obj\Debug\Mensaje.csprojAssemblyReference.cache
+D:\Documentos\Visual Studio\Mensaje\Mensaje\obj\Debug\Mensaje.Form1.resources
+D:\Documentos\Visual Studio\Mensaje\Mensaje\obj\Debug\Mensaje.Properties.Resources.resources
+D:\Documentos\Visual Studio\Mensaje\Mensaje\obj\Debug\Mensaje.csproj.GenerateResource.cache
+D:\Documentos\Visual Studio\Mensaje\Mensaje\obj\Debug\Mensaje.exe
+D:\Documentos\Visual Studio\Mensaje\Mensaje\obj\Debug\Mensaje.pdb
